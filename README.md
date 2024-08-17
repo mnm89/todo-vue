@@ -1,5 +1,5 @@
 # Todo List App
-Certainly! Below is a simple example of a To-Do List App built with Vue.js. This example demonstrates the basics of Vue.js, including components, data binding, event handling, and dynamic updates.
+Below is a simple example of a To-Do List App built with Vue.js. This example demonstrates the basics of Vue.js, including components, data binding, event handling, and dynamic updates.
 
 ## Project Structure
 
